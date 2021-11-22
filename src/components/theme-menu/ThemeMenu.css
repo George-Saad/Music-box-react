@@ -1,0 +1,14 @@
+.theme-input {
+  background-color: white;
+  border-bottom: 2px solid #e2e2e2;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 24px;
+  height: 2em;
+  width: 75%;
+}
+
+.theme-input {
+  outline: none;
+  border-bottom: 2px solid black;
+}

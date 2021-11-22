@@ -1,0 +1,15 @@
+select {
+  width: 75%;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+  height: 2em;
+}
+
+select:focus {
+  outline: none;
+}
+
+select {
+  background: linear-gradient(70deg, rgb(80, 80, 241), rgb(232, 192, 255));
+}

@@ -1,0 +1,35 @@
+.menu-screen {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  max-width: 700px;
+}
+
+.logo {
+  height: 7em;
+}
+
+.menu-screen h2 {
+  font-size: 1.25em;
+  font-weight: normal;
+  margin: 0.5em 0;
+}
+
+.submit-button {
+  margin-top: 1em;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 24px;
+  height: 2em;
+  text-align: center;
+  color: white;
+  background: linear-gradient(
+    45deg,
+    rgb(153, 51, 255) 0%,
+    rgb(255, 102, 102) 100%
+  );
+  border: 0;
+  width: 100%;
+  max-width: 180px;
+}

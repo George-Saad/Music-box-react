@@ -1,0 +1,12 @@
+.play-button {
+  background: rgb(18, 18, 18);
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-button img {
+  height: 60px;
+  width: 60px;
+}
