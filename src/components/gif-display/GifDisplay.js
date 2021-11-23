@@ -6,12 +6,6 @@ export default function GifDisplay({ data }) {
 
   const [gifs, setGifs] = useState([]);
   const [index, setIndex] = useState(0);
-  console.log(index);
-  console.log(gifs.length);
-
-  if (index === gifs.length - 1) {
-    console.log('Equal');
-  }
 
   const preLoadGifs = (gifsData, i)=> {
     if(i === gifsData.length){
